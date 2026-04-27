@@ -20,11 +20,13 @@ leetcode to queue
 | [0387-first-unique-character-in-a-string](https://github.com/JotiThakur88/queue/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/JotiThakur88/queue/tree/main/0933-number-of-recent-calls/) | Easy |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JotiThakur88/queue/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JotiThakur88/queue/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JotiThakur88/queue/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,10 +35,12 @@ leetcode to queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/JotiThakur88/queue/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JotiThakur88/queue/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/JotiThakur88/queue/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JotiThakur88/queue/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +61,12 @@ leetcode to queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/JotiThakur88/queue/tree/main/0933-number-of-recent-calls/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JotiThakur88/queue/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JotiThakur88/queue/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 <!---LeetCode Topics End-->
