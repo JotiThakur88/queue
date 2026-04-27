@@ -11,14 +11,17 @@ leetcode to queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JotiThakur88/queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JotiThakur88/queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/JotiThakur88/queue/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JotiThakur88/queue/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -44,4 +47,8 @@ leetcode to queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JotiThakur88/queue/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
