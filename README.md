@@ -7,10 +7,12 @@ leetcode to queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JotiThakur88/queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0341-flatten-nested-list-iterator](https://github.com/JotiThakur88/queue/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JotiThakur88/queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0341-flatten-nested-list-iterator](https://github.com/JotiThakur88/queue/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/JotiThakur88/queue/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
@@ -18,6 +20,7 @@ leetcode to queue
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JotiThakur88/queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/JotiThakur88/queue/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0341-flatten-nested-list-iterator](https://github.com/JotiThakur88/queue/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/JotiThakur88/queue/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/JotiThakur88/queue/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/JotiThakur88/queue/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -77,4 +80,16 @@ leetcode to queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/JotiThakur88/queue/tree/main/0239-sliding-window-maximum/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/JotiThakur88/queue/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/JotiThakur88/queue/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/JotiThakur88/queue/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 <!---LeetCode Topics End-->
